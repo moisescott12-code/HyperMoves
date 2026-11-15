@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moisescott12-code.github.io/HyperMoves/sitemap.xml
